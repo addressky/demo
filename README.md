@@ -53,3 +53,5 @@ Step by step to verify that the address is valid on the Bitcoin network.
 
 Step 1a Select at the top -> "Explorer".
 Step 2a Enter the address to verify.
+
+![verify3](https://user-images.githubusercontent.com/81491330/112737638-8ac82f80-8f21-11eb-986c-76371360e24d.png)
