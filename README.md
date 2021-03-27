@@ -57,4 +57,12 @@ Step 2a Enter the address to verify.
 
 ![verify2](https://user-images.githubusercontent.com/81491330/112737626-797f2300-8f21-11eb-9977-fe7af2c8a122.png)
 
+Step 3a Select option -> "BTC"
+
+![verify3](https://user-images.githubusercontent.com/81491330/112737638-8ac82f80-8f21-11eb-986c-76371360e24d.png)
+
+Step 4a Verify the address in Bitcoin Network.
+
+
+
 
