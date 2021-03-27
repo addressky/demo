@@ -13,12 +13,29 @@ Private Key (HEX): 7702597AD2394AB8197C14F1370FF5F82261F3FB856CCBC1FA8D684DF5515
 
 1SmiLeCALwLKsijbyjWqwaYP1jrvfBrTa - (Smile - Felling)
 Private Key (WIF): p2pkh:KwZt744kEK1g5EyBypmY3eUaU3MsQqQQ1tEhcRsYeXrDxgmBKmB5
-Private Key (HEX): 0xA6072A7B0D17844CD06C8C36282EA5A161CD28F1DDFC6797FFD031CDCCC71C2
+Private Key (HEX): A6072A7B0D17844CD06C8C36282EA5A161CD28F1DDFC6797FFD031CDCCC71C2
 
 1Queen92u5S6uHdjhKXt5BUV6BySM5e98 - (Music - Queen)
 Private Key (WIF): p2pkh:L1tjicJqQTyRYPn4Ny9podQXTBaDRrwfGqb8YSvJ6dVeH1j34FNW
-Private Key (HEX): 0x8B6D1FC903F1C343EFD5DDD44A986FD8A089B72114BA6041C354958002187E15
+Private Key (HEX): 8B6D1FC903F1C343EFD5DDD44A986FD8A089B72114BA6041C354958002187E15
 
 1AriesnZ7t9GTiSFhyKEyBe7jgFe8QjdNo - (Zodiac - Aries)
-Priv (WIF): p2pkh:L3JLj7wysetAcUZHTtuvkszAmAapa9xyzjKfwYZFAfEFmWpW4nFA
-Priv (HEX): 0xB567FFEA5DC0DD20628B9F78EAB963478BD5D2C0B96ECF45F1E1A162A3BA2C7D
+Private Key (WIF): p2pkh:L3JLj7wysetAcUZHTtuvkszAmAapa9xyzjKfwYZFAfEFmWpW4nFA
+Private Key (HEX): B567FFEA5DC0DD20628B9F78EAB963478BD5D2C0B96ECF45F1E1A162A3BA2C7D
+
+How to test the demo addresses, they should be supported by the following external website.
+
+https://brainwalletx.github.io/#generator
+
+Steps by step to follow:
+
+1.- Select in the upper part the option -> "Generator"
+2.- Select the option -> "Secret Exponent"
+3.- Enter or write the private key in hexadecimal (HEX) format in the "Secret Exponent" field.
+4.- Select the option -> Point Conversion -> "Compressed".
+
+Automatically the Bitcoin address referenced to the private key entered in point 3 will be calculated. You should give us the address that we are testing.
+
+With the previous point we can check that the private key corresponds to the "Vanity Address" or custom address that we are verifying.
+
+
