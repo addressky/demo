@@ -45,4 +45,11 @@ Automatically the Bitcoin address referenced to the private key entered in point
 
 With the previous point we can check that the private key corresponds to the "Vanity Address" or custom address that we are verifying.
 
+Now we must verify that the Bitcoin address will be valid for use in the Bitcoin network. We will use the following external website:
 
+https://www.blockchain.com/es/explorer
+
+Step by step to verify that the address is valid on the Bitcoin network.
+
+Step 1a Select at the top -> "Explorer".
+Step 2a Enter the address to verify.
