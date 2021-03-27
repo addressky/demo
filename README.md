@@ -39,6 +39,8 @@ Step 4 Select the option -> Point Conversion -> "Compressed".
 
 Step 5 Check the address that gives us as a result - correct verification.
 
+![verification1](https://user-images.githubusercontent.com/81491330/112737288-f9f05480-8f1e-11eb-8ede-9ebdef6a196c.png)
+
 Automatically the Bitcoin address referenced to the private key entered in point 3 will be calculated. You should give us the address that we are testing.
 
 With the previous point we can check that the private key corresponds to the "Vanity Address" or custom address that we are verifying.
