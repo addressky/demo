@@ -29,11 +29,11 @@ https://brainwalletx.github.io/#generator
 
 Steps by step to follow:
 
-1.-Select in the upper part the option -> "Generator".
-2.-Select the option -> "Secret Exponent".
-3.-Enter or write the private key in hexadecimal (HEX) format in the "Secret Exponent" field.
-4.-Select the option -> Point Conversion -> "Compressed".
-5.-Check the address that gives us as a result - correct verification.
+Step 1 Select in the upper part the option -> "Generator".
+Step 2 Select the option -> "Secret Exponent".
+Step 3 Enter or write the private key in hexadecimal (HEX) format in the "Secret Exponent" field.
+Step 4 Select the option -> Point Conversion -> "Compressed".
+Step 5 Check the address that gives us as a result - correct verification.
 
 Automatically the Bitcoin address referenced to the private key entered in point 3 will be calculated. You should give us the address that we are testing.
 
