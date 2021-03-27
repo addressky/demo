@@ -67,4 +67,7 @@ Step 4a Verify the address in Bitcoin Network.
 
 ![verify4](https://user-images.githubusercontent.com/81491330/112737645-974c8800-8f21-11eb-91a7-4f25331a65f6.png)
 
+More information: www.ADDRESSKY.com
+Questions: hello@addressky.com
+
 
